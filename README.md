@@ -5,4 +5,5 @@ Trying to make a google map plotter app, where user will give some coordinates, 
 for running, download this folder, open terminal and run, 
 
 npm i //install node modules
+
 npm start //node server starts
